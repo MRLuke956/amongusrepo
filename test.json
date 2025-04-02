@@ -1,0 +1,83 @@
+{
+    "modName": "Among Us Mod Menu Crew",
+    "version": "3.0.0",
+    "description": "A comprehensive mod menu for Among Us with advanced features and cheats",
+    "features": {
+      "gameControls": {
+        "meetingControls": {
+          "closeMeeting": "Instantly close any active meetings",
+          "callEmergency": "Call emergency meetings at will"
+        },
+        "taskManagement": {
+          "completeAllTasks": "Instantly complete all assigned tasks"
+        },
+        "gameModifiers": {
+          "infiniteVision": "Remove vision limitations",
+          "playerSpeed": "Adjust player movement speed (0.5x to 6x)",
+          "disableGameEnd": "Prevent the game from ending"
+        }
+      },
+      "impostorFeatures": {
+        "roleControl": {
+          "forceImpostor": "Force yourself to become an impostor",
+          "revealImpostors": "Reveal all impostors with red names"
+        },
+        "killFeatures": {
+          "noKillCooldown": "Remove kill cooldown restrictions",
+          "adjustableKillCooldown": "Customize kill cooldown duration",
+          "instantKillAll": "Eliminate all players instantly"
+        }
+      },
+      "movementFeatures": {
+        "noclip": "Pass through walls and objects",
+        "teleportation": {
+          "toPlayers": "Teleport to nearest player",
+          "toLocations": "Teleport to specific map locations",
+          "cursorTeleport": "Right-click teleportation to cursor position"
+        },
+        "speedBoost": "Enhanced movement speed with multipliers"
+      },
+      "sabotageControls": {
+        "doors": {
+          "cafeteria": "Control cafeteria doors",
+          "storage": "Control storage doors",
+          "medbay": "Control medbay doors",
+          "security": "Control security doors"
+        },
+        "systemSabotage": {
+          "reactor": "Trigger reactor meltdown",
+          "oxygen": "Trigger oxygen depletion",
+          "lights": "Control lighting systems",
+          "allSystems": "Trigger all sabotages simultaneously"
+        }
+      },
+      "visualEffects": {
+        "nameEffects": {
+          "rainbowName": "Animated rainbow name effect",
+          "hackerEffect": "Glitch/hacker style name animation",
+          "customNames": "Change player names randomly"
+        },
+        "scannerBypass": "Bypass MedBay scanner restrictions"
+      },
+      "securityFeatures": {
+        "banManagement": {
+          "removeBans": "Clear all active bans",
+          "banTimeControl": "Modify ban duration"
+        },
+        "verification": {
+          "tokenSystem": "Secure token-based verification",
+          "antiCheat": "Enhanced anti-cheat protection"
+        }
+      },
+      "customAnnouncements": {
+        "toggle": "Switch between official and custom announcements",
+        "fetch": "Retrieve announcements from custom source",
+        "display": "Custom announcement interface"
+      }
+    },
+    "security": {
+      "rpcValidation": "Secure RPC communication",
+      "tokenVerification": "Time-based token verification",
+      "antiExploit": "Protection against common exploits"
+    }
+  }
